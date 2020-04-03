@@ -1,6 +1,7 @@
 # Appiness-Task
 
-Steps to Run:
+##Steps to Run:
+
 1. Download the zip file
 2. Unzip it.
 3. You can import it Visaul Studio Code(Open Terminal) or Run by CMD
@@ -10,7 +11,8 @@ Steps to Run:
 7. Run node index.js
 8. Open another CMD or terminal
 
-Steps to Run MongoDB:
+##Steps to Run MongoDB:
+
 1.Install MongoDB <br/>
 2.Create a folder mongodb-data for string data <br/>
 3.To start mongo,run below command inside of Appiness-Task-master(/bin/mongod.exe --dbpath=/mongodb-data) <br/>
