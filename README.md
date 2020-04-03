@@ -11,9 +11,9 @@ Steps to Run:
 8. Open another CMD or terminal
 
 Steps to Run MongoDB:
-1.Install MongoDB
-2.Create a folder mongodb-data for string data
-3.To start mongo,run below command inside of Appiness-Task-master(/bin/mongod.exe --dbpath=/mongodb-data)
-4.make sure you give correct path to data folder and run it
-2.Install Robo3T(connect to MongoDB)  for visualization and connect to mongo db localhost:27017
+1.Install MongoDB <br/>
+2.Create a folder mongodb-data for string data <br/>
+3.To start mongo,run below command inside of Appiness-Task-master(/bin/mongod.exe --dbpath=/mongodb-data) <br/>
+4.make sure you give correct path to data folder and run it <br/>
+2.Install Robo3T(connect to MongoDB)  for visualization and connect to mongo db localhost:27017 <br/>
 
